@@ -1,2 +1,2 @@
 # Lerne-Android
- Personal Java-Learning
+ My Personal AndDev-Learning
